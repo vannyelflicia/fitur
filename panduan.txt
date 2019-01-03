@@ -1,0 +1,25 @@
+1.Script yang diubah :
+a.Controller
+•PageControl.php
+•ExcelAP.php
+•ExcelAR.php
+•ExcelDokumen.php
+•ExcelMonitoring.php
+•ExcelOP.php
+•ExcelPettyCash.php
+•ExcelTruck.php
+
+b.View
+•Dahboard_v.php
+•Dashboard_OP.php
+•Dashboard_AP.php
+•Dasboard_Truck.php
+•edit_dashOP.php
+•edit_dashTruck.php
+•edit_dashAP.php
+
+c.Model
+•Pagemodel.php
+
+2.Database yang diubah : tabel truck (hanya diubah 1 field, yaitu field b_lain menjadi  b_laintr) 
+ 
